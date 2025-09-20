@@ -1,3 +1,3 @@
 #!/bin/sh
-echo " PU DD "
+echo " all things are good "
 grep spring tool.txt
