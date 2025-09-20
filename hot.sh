@@ -1,3 +1,3 @@
 #!/bin/sh
-echo " running shell script "
+echo " PU DD "
 cat tool.txt
