@@ -1,4 +1,7 @@
 spring
 tree
-flower
-pot
+flower pot
+chocolate
+dream
+goal 
+officer
