@@ -1,3 +1,3 @@
 #!/bin/sh
-echo " all things are good and all things you will get on time only have faith in god "
+echo " I can do everything i'm beautiful god is with me my mom/dad is with me "
 grep tree tool.txt
